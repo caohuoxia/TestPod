@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 
   s.source_files  =  "Top/*.{h,m}"
 
-  s.framework  = "UIKit"
+  s.frameworks  = "UIKit","QuartzCore"
 
   s.requires_arc = true
 
