@@ -7,7 +7,6 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "UIView+YYAdd.h"
 
 typedef void(^MainTopBlock)(NSInteger tag);
 
